@@ -7,8 +7,8 @@ import Providers from './providers'
 const saira = Saira({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Portfolio | Sandeep Vashishtha',
-  description: 'Portfolio of Sandeep Vashishtha',
+  title: 'Portfolio | Wasib Zameer',
+  description: 'Portfolio of Wasib Zameer',
   verification: {
     google: 'NK_YRyzH-6vt7WN_fUlh27kl9Rbv60jNBhDY_H7oLb8'
   }
